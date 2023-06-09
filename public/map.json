@@ -1736,7 +1736,40 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "class":"",
+                 "height":175.876201003316,
+                 "id":14,
+                 "name":"VideoRoom",
+                 "rotation":0,
+                 "visible":true,
+                 "width":156.721367230678,
+                 "x":1187.59969390358,
+                 "y":174.134852478531
+                }, 
+                {
+                 "class":"",
+                 "height":0,
+                 "id":15,
+                 "name":"",
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":2150.56542810986,
+                 "y":374.389932828841
+                }, 
+                {
+                 "class":"",
+                 "height":0,
+                 "id":16,
+                 "name":"",
+                 "rotation":0,
+                 "visible":true,
+                 "width":0,
+                 "x":1281.63251424199,
+                 "y":299.511946263073
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -1940,7 +1973,7 @@
          "y":0
         }],
  "nextlayerid":50,
- "nextobjectid":14,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "properties":[
         {
